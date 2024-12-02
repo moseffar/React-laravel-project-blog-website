@@ -3,7 +3,9 @@
 
 ## Description  
 
-A full-stack blog platform built with React.js and Laravel. This project allows users to create, manage, and explore blog posts. It features a modern user interface powered by React.js and a robust backend managed with Laravel.  
+A full-stack blog platform built with React.js and Laravel. This project allows users to create, manage, and explore blog posts. It features a modern user interface powered by React.js and a robust backend managed with Laravel. 
+
+![blog1](https://github.com/user-attachments/assets/18628ab5-38cb-4e6a-bf5b-a8fdcb714c65)
 
 ### Features:  
 
