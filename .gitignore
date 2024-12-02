@@ -1,0 +1,33 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+/node_modules
+/vendor
+
+# Environment variables
+.env
+
+# Laravel specific
+/public/storage
+/storage/*.key
+.env.*
+
+# React build files
+/build
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.idea/
+*.iml
+.vscode/
+
+# Miscellaneous
+*.bak
+*.tmp
+
