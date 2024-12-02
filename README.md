@@ -12,7 +12,11 @@ A full-stack blog platform built with React.js and Laravel. This project allows 
 - **Dynamic Blog Content**: Create, read, update, and delete blog posts.
 - **Frontend Framework**: Built with React.js for a responsive and dynamic user experience.  
 - **Backend Framework**: Laravel ensures efficient API handling and database management.  
-- **Secure Data**: Implements best practices to protect user data and ensure application security.  
+- **Secure Data**: Implements best practices to protect user data and ensure application security.
+
+
+![blog2](https://github.com/user-attachments/assets/720d9717-d843-4df9-8583-fb69d88116ae)
+
 
 ## Demo  
 
